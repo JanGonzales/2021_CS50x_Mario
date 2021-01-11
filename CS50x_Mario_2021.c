@@ -17,8 +17,7 @@ int main()
             printf("Please enter the height\n");
             scanf("%i", &height);
         } 
-        while (height <= 1 || height > 8);
-
+        while (height < 1 || height > 8 || height != 0);
             for (counter = 0; counter < height; counter++)
             {
                 for (space = var; space < height; space++)
