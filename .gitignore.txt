@@ -1,0 +1,4 @@
+Lab_2.exe
+tempCodeRunnerFile.c
+Lab_2.c
+.vscode
