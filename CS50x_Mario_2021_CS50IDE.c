@@ -12,7 +12,7 @@ int main()
         int pyramid;
         int space;
         int var = 1;
-        int var_play_again = true;
+        bool var_play_again = true;
         printf("\nWelcome to Mario World, let's build some pyramids\n");
         do
         {
